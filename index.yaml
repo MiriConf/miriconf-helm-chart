@@ -9,6 +9,6 @@ entries:
     name: miriconf-server
     type: application
     urls:
-    - https://github.com/MiriConf/miriconf-helm-chart%E2%80%AF/miriconf-server-0.1.0.tgz
+    - https://miriconf.github.io/miriconf-helm-chart/miriconf-server-0.1.0.tgz
     version: 0.1.0
 generated: "2022-09-01T00:00:20.073026-04:00"
