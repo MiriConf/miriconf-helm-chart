@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  miriconf-server:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2022-09-01T00:00:20.074091-04:00"
+    description: A Helm chart to deploy the miriconf-server
+    digest: a0d010644e46f499b712b4915d892761c35ee568647028ed215e15f867c83230
+    name: miriconf-server
+    type: application
+    urls:
+    - https://github.com/MiriConf/miriconf-helm-chart%E2%80%AF/miriconf-server-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-01T00:00:20.073026-04:00"
